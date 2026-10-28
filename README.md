@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-addy.io is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://addy.io/
+Addy.io provides a web application that enables users to register, log in, and manage their personal account information. The platform includes a dashboard for account settings and integrates with payment services such as Stripe, offering a SaaS solution for address and email related workflows.
+
+**Areas:** Company · Email · Address · SaaS · API · WebApp
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://app.addy.io/)
+- [Getting started](https://addy.io/help/category/getting-started/)
+- [API reference](https://app.addy.io/docs/)
+- [Pricing](https://addy.io/pricing/)
+- [Support](https://addy.io/help/)
+- [Changelog](https://addy.io/changelog/)
+- [Blog](https://addy.io/blog/)
+- [Security](https://addy.io/security/)
+- [Terms of service](https://addy.io/terms/)
+- [Privacy policy](https://addy.io/privacy/)
+- [GitHub](https://github.com/anonaddy)
+- [Status](https://status.addy.io/)
+
+**APIs profiled:** 15
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/addy-io/](https://apis.io/providers/addy-io/).
